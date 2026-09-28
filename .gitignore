@@ -1,0 +1,7 @@
+.venv/
+.env
+requirements.json
+requirements_*.txt
+__pycache__/
+*.pyc
+.idea/
